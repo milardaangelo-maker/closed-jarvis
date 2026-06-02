@@ -1,0 +1,12 @@
+# Keep this public repository clean.
+# Do not upload the private JARVIS source code or local secrets here.
+
+.env
+*.key
+*.pem
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+
